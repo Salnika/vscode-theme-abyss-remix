@@ -3,7 +3,7 @@
   "displayName": "Abyss Theme Remix",
   "description": "Abyss UI with Visual Studio Dark syntax highlighting",
   "version": "0.2.0",
-  "publisher": "alexis",
+  "publisher": "ratpi-studio",
   "icon": "icon.png",
   "engines": {
     "vscode": "^1.60.0"
