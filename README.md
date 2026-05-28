@@ -1,4 +1,4 @@
-# Abyss Mix VS Code Theme
+# Abyss Theme Remix VS Code Theme
 
 A VS Code theme that combines the deep blue interface of **Abyss** with the classic **Visual Studio Dark** syntax highlighting.
 
