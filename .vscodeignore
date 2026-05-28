@@ -1,0 +1,10 @@
+node_modules/**
+.vscode-test/**
+vsc-extension-quickstart.md
+.gitignore
+.vscodeignore
+npm-debug.log
+**/*.map
+**/*.tsbuildinfo
+package-lock.json
+package.json.bak

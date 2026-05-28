@@ -1,0 +1,41 @@
+{
+  "name": "abyss-mix",
+  "displayName": "Abyss Mix",
+  "description": "Abyss UI with Visual Studio Dark syntax highlighting",
+  "version": "0.1.0",
+  "publisher": "ratpi-studio",
+  "engines": {
+    "vscode": "^1.60.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "keywords": [
+    "theme",
+    "abyss",
+    "visual studio dark",
+    "dark",
+    "color-theme"
+  ],
+  "scripts": {
+    "build": "vsce package --no-dependencies"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/salnika/vscode-theme-abyss-remix"
+  },
+  "contributes": {
+    "themes": [
+      {
+        "label": "Abyss Mix",
+        "uiTheme": "vs-dark",
+        "path": "./themes/abyss-mix-color-theme.json"
+      }
+    ]
+  },
+  "devDependencies": {
+    "@vscode/vsce": "^3.9.1"
+  },
+  "license": "MIT",
+  "packageManager": "npm@11.16.0"
+}
